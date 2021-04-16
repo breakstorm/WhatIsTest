@@ -1,0 +1,22 @@
+{
+  "name": "whatistest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breakstorm/WhatIsTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breakstorm/WhatIsTest/issues"
+  },
+  "homepage": "https://github.com/breakstorm/WhatIsTest#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
